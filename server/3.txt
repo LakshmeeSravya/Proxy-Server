@@ -1,0 +1,43 @@
+When the proxy server gets a request, it checks if the requested object is cached (i.e. server
+already has the request webpage or file), and if yes, it returns the object from the cache, without
+contacting the server.
+If the object is not cached, the proxy retrieves the object from the server, returns it to you and
+caches a copy of this webpage for future requests. (More details ​ here​ )
+In case of any further requests for the same, the proxy must utilize the “If Modified Since”
+header to check if any updates have been made, and if not, then serve the response from the
+cache.
+In practice, the proxy server must verify that the cached responses are still valid (that is, haven't
+been updated) and that they are the correct responses to the client's requests.
+
+When the proxy server gets a request, it checks if the requested object is cached (i.e. server
+already has the request webpage or file), and if yes, it returns the object from the cache, without
+contacting the server.
+If the object is not cached, the proxy retrieves the object from the server, returns it to you and
+caches a copy of this webpage for future requests. (More details ​ here​ )
+In case of any further requests for the same, the proxy must utilize the “If Modified Since”
+header to check if any updates have been made, and if not, then serve the response from the
+cache.
+In practice, the proxy server must verify that the cached responses are still valid (that is, haven't
+been updated) and that they are the correct responses to the client's requests.
+
+When the proxy server gets a request, it checks if the requested object is cached (i.e. server
+already has the request webpage or file), and if yes, it returns the object from the cache, without
+contacting the server.
+If the object is not cached, the proxy retrieves the object from the server, returns it to you and
+caches a copy of this webpage for future requests. (More details ​ here​ )
+In case of any further requests for the same, the proxy must utilize the “If Modified Since”
+header to check if any updates have been made, and if not, then serve the response from the
+cache.
+In practice, the proxy server must verify that the cached responses are still valid (that is, haven't
+been updated) and that they are the correct responses to the client's requests.
+
+When the proxy server gets a request, it checks if the requested object is cached (i.e. server
+already has the request webpage or file), and if yes, it returns the object from the cache, without
+contacting the server.
+If the object is not cached, the proxy retrieves the object from the server, returns it to you and
+caches a copy of this webpage for future requests. (More details ​ here​ )
+In case of any further requests for the same, the proxy must utilize the “If Modified Since”
+header to check if any updates have been made, and if not, then serve the response from the
+cache.
+In practice, the proxy server must verify that the cached responses are still valid (that is, haven't
+been updated) and that they are the correct responses to the client's requests.
